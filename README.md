@@ -30,7 +30,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
      😄 The most commonly used password in the world is- 123456 
   
-     😄 Stackoverflow published something called ["Dance Dance Authentication"](https://www.youtube.com/watch?v=VgC4b9K-gYU) in 2017. Even though it was an April Fool prank, wouln't it be nice if atleast part of it could be implemented using gesture sensons? 
+     😄 Stackoverflow published something called ["Dance Dance Authentication"](https://www.youtube.com/watch?v=VgC4b9K-gYU) in 2017. Even though it was an April Fool prank, wouldn't it be nice if atleast part of it could be implemented? 
   
 <!--
 **sushma-goutam/sushma-goutam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
