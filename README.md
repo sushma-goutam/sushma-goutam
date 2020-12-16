@@ -4,17 +4,15 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
 - 🔭 I’m currently working on ...
 
-     - A Device Controller web application using PyThon/ Django/ Channels 
+     - A Device Controller web application using Python/ Django/ Channels 
 
 - 🌱 I’m currently learning ...
 
      - Identification and Authentication using Auth0
   
-     - SQLAlchemy
+     - Docker, Kuberenetes
   
-     - Docker
-  
-     - Deploying web apps on cloud server
+     - CI/CD pipeline on cloud server
   
 - 💬 Ask me about ... 
 
