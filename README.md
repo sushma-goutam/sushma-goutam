@@ -10,7 +10,7 @@ This is the GitHub home of Sushma Goutam, a software professional in Germany.
 
      - Identification and Authentication using Auth0
   
-     - Docker, Kuberenetes
+     - Docker, Kubernetes
   
      - CI/CD pipeline on cloud server
   
